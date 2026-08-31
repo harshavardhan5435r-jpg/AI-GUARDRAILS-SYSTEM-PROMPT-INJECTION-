@@ -1,0 +1,6 @@
+langchain
+langchain-google-genai
+transformers
+torch
+python-dotenv
+gradio
